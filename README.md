@@ -12,5 +12,3 @@ I dove into the Superstore Sales dataset to practice my Exploratory Data Analysi
 It was fascinating to discover clear seasonal sales peaks (especially near year-end!) and see how important the Technology and Furniture categories are. The Consumer segment also stood out as the biggest contributor to sales.
 
 For this project, I used Python along with libraries like Pandas for data wrangling, and Matplotlib/Seaborn for creating visualizations.
-
-Always learning and happy to connect with fellow data enthusiasts! Let me know what you think.
